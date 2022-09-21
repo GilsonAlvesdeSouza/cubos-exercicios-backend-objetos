@@ -19,7 +19,7 @@ const telefone: TelefoneInterface = {
   numeroTelefone: "(62) 99568-9638",
 };
 
-const usuario = {
+let usuario = {
   nome: "Gilson Alves",
   email: "gilsonalves@gmail.com",
   telefone,
